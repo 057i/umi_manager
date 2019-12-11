@@ -1,0 +1,32 @@
+.nav{
+    left: 0;
+    right: 0;
+    height:70px;
+
+    background-color: #666;
+
+    position: fixed;
+}
+
+.left{
+    float: left;
+    margin: 0;
+    padding: 0;
+    color:#fff;
+    font-size: 1.5em;
+    line-height: 1.5em;
+    padding: 10px 30px;
+}
+.right{
+    float: right;
+    margin: 0;
+    padding: 10px 30px;
+    font-size: 1.2em;
+
+}
+.right span{
+    margin-left: 10px;
+}
+.right button{
+    margin-left: 10px;
+}
